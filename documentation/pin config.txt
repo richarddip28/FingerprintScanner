@@ -2,7 +2,7 @@ Sound Sensor
 
 python sound.py
 
-GND = PIN 2
+VCC= PIN 2
 GND = PIN 6
 OUT = PIN 10
 
@@ -18,7 +18,7 @@ DATA IN	= PIN 12
 
 Photo Cell
 
-sudo python lyight.py
+sudo python light.py
 
 VCC = PIN 17
 GND = PIN 14
